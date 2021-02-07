@@ -1,0 +1,6 @@
+* csv file format
+* comma delimited columns (comma character %x2C)
+* records, rows lines separated by line break characters (\n)
+* to separate have to check for comma in record fields(cells), cells that contain commas are enclosed in double quotes
+* Pluralsight csv note files 9 columns only 1st 5 necessary
+* Columns needed Note, Course, Module, Clip, Time in clip
